@@ -1,3 +1,4 @@
+master product barry ousmane
 # Application - Petstore Java EE 6
 
 * *Author* : [Antonio Goncalves](http://www.antoniogoncalves.org)
